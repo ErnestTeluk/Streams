@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "new stream",
+      "description": "mlynarz accoutc",
+      "id": 1
+    },
+    {
+      "title": "ernest stream",
+      "description": "ernest accout",
+      "userId": "112765519639353457519",
+      "id": 2
+    },
+    {
+      "title": "new stream component reuse",
+      "description": "hfghfdh",
+      "id": 3
+    },
+    {
+      "title": "hjdfhdf",
+      "description": "xdxgsdg",
+      "userId": "109765059035404260822",
+      "id": 4
+    },
+    {
+      "title": "gdfsg",
+      "description": "fdgdfg",
+      "userId": "109765059035404260822",
+      "id": 5
+    }
+  ]
+}
